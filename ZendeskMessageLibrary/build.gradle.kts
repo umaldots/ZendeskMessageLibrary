@@ -38,7 +38,6 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("zendesk.messaging:messaging-android:2.18.0")
     implementation("com.google.android.material:material:1.11.0")
-    implementation("com.google.guava:guava:33.0.0-jre")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
